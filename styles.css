@@ -98,6 +98,7 @@ ul {
   padding: 20px;
   max-width: 100%; /* Ensures the container does not exceed the viewport width */
   gap: 20px; /* Adds space between sections */
+  padding-bottom: 280px; /* Adds space at the bottom of the page */
 }
 
 .section .preview-box {
